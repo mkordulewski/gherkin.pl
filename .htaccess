@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^((.*)\.)?(gherkin\.pl)$ [NC]
+RewriteRule ^ https://github.com/cucumber/cucumber/wiki/Gherkin [R=302,L,NE]

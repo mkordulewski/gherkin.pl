@@ -2,5 +2,5 @@
 
 * Polish Gherkin website:
   * http://gherkin.pl/
-* Based on main Gherkin website:
+* Redirects to Gherkin wiki page:
   * https://github.com/cucumber/cucumber/wiki/Gherkin
